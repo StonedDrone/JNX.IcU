@@ -1,0 +1,8 @@
+{
+  "name": "JayNdaboX.icU",
+  "description": "A cyber Mardi Gras-themed mobile experience featuring NFC hunt rewards, stealth GPS tracking, and lore-driven slots.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
